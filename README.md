@@ -15,7 +15,7 @@ https://github.com/MsLolita/solana_manager
 
 4 функция записывает в wallets.txt адреса полученные из приватных ключей с keys.txt
 
-надо установить в командной строке
+надо установить через командную строку библиотке из requirements
 
 pip install -r requirements.txt
 
